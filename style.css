@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+#match1{
+    display: grid;
+    grid-template-columns:repeat(2 ,300px);
+    
+}
+#match2{
+    display: grid;
+    grid-template-columns: repeat(2,150px);
+}
+#match{
+    display: grid;
+    grid-template-columns: repeat(3,300px);
+}
